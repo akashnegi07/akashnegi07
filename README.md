@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akashnegi07
-- 👀 I’m interested in Drupal,c++,DSA and algorithm 
+- 👀 I’m interested in Drupal,C++,DSA and algorithm 
 - 🌱 I’m currently learning Drupal modules
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
